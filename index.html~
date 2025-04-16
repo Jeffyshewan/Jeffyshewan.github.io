@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>CV - Jean-François GAUTREAU</title>
+    <link rel="icon" href="other/cv.png"/>
+
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Fichiers CSS -->
+    <link rel="stylesheet" href="other/reset.css">
+    <!--[if lt IE 9]>
+
+    <link rel="stylesheet" href="css/cv.css" media="screen">
+    <![endif]-->
+
+    <link rel="stylesheet" media="screen and (max-width:480px)" href="other/mobile.css">
+    <link rel="stylesheet" media="screen and (min-width:481px)" href="other/cv.css">
+    <link rel="stylesheet" media="print" href="other/print.css">
+
+</head>
+
+<body>
+
+<!-- Header -->
+<header role="banner">
+    <div class="container_16">
+        <div class="noms">
+            <h1 class="nom-complet">Jean-François Gautreau</h1>
+            <h2 class="intitule">Développeur FullStack</h2>
+        </div>
+
+        <figure>
+            <img src="other/photo.png" alt="photo Jean-François">
+        </figure>
+    </div>
+</header>
+
+<!-- Contact -->
+<section class="contactform clearfix">
+    <div class="container_16">
+
+    </div>
+</section>
+
+<!-- Corps -->
+<section role="main" class="container_16 clearfix">
+    <div class="grid_16">
+        <!-- A propos -->
+        <div class="grid_8 apropos">
+            <h3>A propos</h3>
+            <p class="about">
+                Développeur Full-Stack avec plus de 4 ans d’expérience, je suis un passionné de l’informatique et des nouvelles technologies. 
+                Toujours à l'affût des dernières tendances multimédia, je m'investis pleinement dans chaque projet pour créer des solutions innovantes et performantes.<br> <br>
+
+                À la recherche d’une nouvelle opportunité en tant que Développeur Full-Stack ou Front-end, je me distingue par ma patience, ma détermination, et mon sens du détail. 
+                Ma rigueur et mon engagement sont les garants de la qualité de mon travail, et je suis prêt à relever de nouveaux défis pour contribuer au succès de votre équipe.
+            </p>
+        </div>
+
+        <!-- Compétences -->
+        <div class="grid_8 competences">
+            <h3>Compétences</h3>
+            <ul class="barres">
+
+                <li data-skills="90">Angular<span style="width: 0%;"></span></li>
+                <li data-skills="80">SQL<span style="width: 0%;"></span></li>
+                <li data-skills="75">Java Spring Boot<span style="width: 0%;"></span></li>
+                <li data-skills="70">Git<span style="width: 0%;"></span></li>
+                <li data-skills="65">C#<span style="width: 0%;"></span></li>
+
+            </ul>
+        </div>
+    </div>
+
+    <!-- Expériences -->
+    <div class="grid_16 experiences">
+        <h3>Expériences</h3>
+        <ul>
+            <li>
+                <h4><strong>Développeur FullStack -</strong> 1 besoin des solutions </h4>
+                <span class="lieu">Lille</span>
+                <span class="dates">Février 2025</span>
+
+                <p style="text-align: justify">
+                    <strong>
+                        Travail sur plusieurs applications du secteur logistique : <br>
+                        - Application C# de suivi des produits de la sortie de prodution jusqu'à expédition vers le client final (Génésis)<br>
+                        - Application Web Angular/C# permettant de valider la qualité produit et d'effectuer des contrôles finaux avant expédition, de digitaliser les inventaires et de prendre des photos des produits en cas de litiges clients (FinalCheck)<br>
+                        - Application Web Angular/C# permettant d'identifier les trains entrant sur le site de Dunkerque et d'identifier le chargement des wagons (WagTrack)<br>
+                    </strong><br>
+                    - Maintenance opérationnelle des applications<br>
+                    - Création et mise à jour d'écrans<br>
+                    - Maintien des serveurs de production et maintenance (MàJ, nettoyage, etc)<br>
+                    <br><br>
+                    <span style="font-weight: 600">Stacks techniques : Angular, C# Entity Framework & Event Flow, Azure DevOps, Docker</span>
+                </p>
+            </li>
+
+            <li>
+                <h4><strong>Développeur FullStack -</strong> JetDev </h4>
+                <span class="lieu">Lille</span>
+                <span class="dates">Novembre 2024 à Janvier 2025</span>
+
+                <p style="text-align: justify">
+                    <strong>
+                        Travail sur une application web responsive pour un client au sein d'une équipe de développeurs du centre de services : <br>
+                        - Application en Java SpringBoot et React de réservation de nettoyage de son logement (particulier ou professionnel)<br>
+                    </strong><br>
+                    - Développement des features en accord avec les User Story et les maquettes<br>
+                    - Correction des bugs<br>
+                    - Rédaction des User Story<br>
+                    <br><br>
+                    <span style="font-weight: 600">Stacks techniques : Java SpringBoot, React(vite), tailwind, GCP, Firebase, Docker</span>
+                </p>
+            </li>
+
+            <li>
+                <h4><strong>Développeur FullStack -</strong> Econocom - ArcelorMittal </h4>
+                <span class="lieu">Dunkerque</span>
+                <span class="dates">Juin 2023 à Aujourd'hui</span>
+
+                <p style="text-align: justify">
+                    <strong>
+                        Travail sur plusieurs applications du secteur logistique : <br>
+                        - Application C# de suivi des produits de la sortie de prodution jusqu'à expédition vers le client final (Génésis)<br>
+                        - Application Web Angular/C# permettant de valider la qualité produit et d'effectuer des contrôles finaux avant expédition, de digitaliser les inventaires et de prendre des photos des produits en cas de litiges clients (FinalCheck)<br>
+                        - Application Web Angular/C# permettant d'identifier les trains entrant sur le site de Dunkerque et d'identifier le chargement des wagons (WagTrack)<br>
+                    </strong><br>
+                    - Maintenance opérationnelle des applications<br>
+                    - Création et mise à jour d'écrans<br>
+                    - Maintien des serveurs de production et maintenance (MàJ, nettoyage, etc)<br>
+                    <br><br>
+                    <span style="font-weight: 600">Stacks techniques : Angular, C# Entity Framework & Event Flow, Azure DevOps, Docker</span>
+                </p>
+            </li>
+
+            <li>
+                <h4><strong>Développeur FullStack - Intermission -</strong> Econocom </h4>
+                <span class="lieu">Villeneuve-d'Ascq</span>
+                <span class="dates">Mai 2023</span>
+
+                <p style="text-align: justify">
+                    <strong>
+                        Formation C# sur la plateforme Udemy pour la prochaine mission.<br>
+                        Développement de correctif de sécurité sur une application legacy d'un client.<br>
+                    </strong><br>
+                    - Formation (certificat Udemy)<br>
+                    - Mise à jour d'écrans<br>
+                    - Mise en production et gestion des serveurs<br>
+                    <br><br>
+                    <span style="font-weight: 600">Stacks techniques : React, Java</span>
+                </p>
+            </li>
+
+            <li>
+                <h4><strong>Développeur FullStack -</strong> Econocom - Kiabi </h4>
+                <span class="lieu">Lys-Lez-Lannoy</span>
+                <span class="dates">Octobre 2022 à Avril 2023</span>
+
+                <p style="text-align: justify">
+                    <strong>Développement sur l'application DAF (TotalCost) ayant pour objectif de digitaliser la facturation Kiabi</strong><br><br>
+                    - création et mise à jour d'écrans<br>
+                    - mise en production sur GCP<br>
+                    <br><br>
+                    <span style="font-weight: 600">Stacks techniques : Angular, Java Spring Boot, GCP, Docker, Jira</span>
+                </p>
+            </li>
+
+            <li>
+                <h4><strong>Développeur FullStack alternant -</strong> Econocom - Kiabi </h4>
+                <span class="lieu">Lys-Lez-Lannoy</span>
+                <span class="dates">Septembre 2019 à Septembre 2022</span>
+
+                <p style="text-align: justify">
+                    <strong>
+                        1ère année : Développement au sein d'un équipe exclusivement composée d'alternants sur un outil facilitant les saisies des temps, 
+                        les plannings et répertoriant les équipes de travail ainsi que les projets des équipes Kiabi. (Le DashBoard)<br><br>
+                        
+                        2nd et 3ème année : Transfert sur l'équipe RH-DAF de Kiabi pour travailler sur divers projet.
+                        Une API d'identité pour les utilisateurs Kiabi, Une application de facilité de paiement pour les clients,
+                        refonte d'une application permettant d'effectuer les entretiens des collaborateurs internes (Talent ED),
+                        reprise d'une application DAF (TotalCost) ayant pour objectif de digitaliser la facturation de Kiabi.<br>
+                    </strong><br>
+                    - Création et mise à jour d'écrans<br>
+                    - Optimisation d'APIs<br>
+                    - Mise en production et gestion des serveurs<br>
+                    - Déploiement sur le cloud GCP<br>
+                    <br><br>
+                    <span style="font-weight: 600">Stacks techniques : Angular, AngularJS, Java Spring Boot, AWS, GCP, Docker, Jira</span>
+                </p>
+            </li>
+        </ul>
+    </div>
+
+    <!-- Formations -->
+    <div class="grid_16 formations">
+        <h3>Formations</h3>
+        <ul>
+            <li>
+                <h4><strong>Master Informatique, Ingénieurie et Innovation</strong> Université Catholique de Lille</h4>
+                <span class="lieu">Lille</span>
+                <span class="dates">2020-2022</span><br/>
+            </li>
+            <li>
+                <h4><strong>Licence CRWD</strong> Efficom</h4>
+                <span class="lieu">Lille</span>
+                <span class="dates">2019-2020</span><br/>
+            </li>
+            <li>
+                <h4><strong>DEUST IOSI</strong> Université de Valenciennes</h4>
+                <span class="lieu">Valenciennes</span>
+                <span class="dates">2016-2019</span><br/>
+                Obtention du diplôme du C2i
+            </li>
+            <li>
+                <h4><strong>DUT informatique</strong> IUT de Maubeuge - Université Valenciennes</h4>
+                <span class="lieu">Maubeuge </span>
+                <span class="dates">2015-2016</span><br/>
+            </li>
+            <li>
+                <h4><strong>Baccalauréat Sciences et Technologies du Management et de la Gestion</strong> Lycée Dupleix
+                </h4>
+                <span class="lieu">Landrecies</span>
+                <span class="dates">2014-2015</span>
+            </li>
+        </ul>
+    </div>
+
+    <!-- Loisirs -->
+    <div class="grid_8 loisirs">
+        <h3>Loisirs</h3>
+        <p>Passer du temps avec mes amis, l'aviation, l'histoire</p>
+    </div>
+
+    <!-- Contact -->
+    <div class="grid_8 contact">
+        <h3>Contact</h3>
+        <ul style="text-align: center">
+            <li class="mail">
+                <!-- <a href="other/jf_gautreau.pdf" target="_blank" style="margin: 2%"> <img src="other/dlcv.png" alt="telecharger en version pdf"> </a> -->
+                <a href="mailto:jfrancois.gautreau@gmail.com" target="_blank" style="margin: 2%">
+                    <img src="other/mail.png" alt="Email"></a>
+                <a href="https://github.com/Jeffyshewan" target="_blank" style="margin: 2%"><img src="other/github.png" alt="github"></a>
+                <a href="https://www.linkedin.com/in/jean-fran%C3%A7ois-gautreau-9b8622161/" target="_blank"
+                   style="margin: 2%"><img src="other/linkedin.png" alt="LinkedIn"></a>
+            </li>
+        </ul>
+    </div>
+</section>
+
+<!-- Scripts JavaScript -->
+<script src="other/jquery-1.js"></script>
+<script src="other/validate.js"></script>
+<!--[if lt IE 9]>
+<script src="scripts/placeholder.js"></script>
+<![endif]-->
+<script src="other/plugins.js"></script>
+
+</body>
+</html>
