@@ -92,16 +92,13 @@
 
                 <p style="text-align: justify">
                     <strong>
-                        Travail sur plusieurs applications du secteur logistique : <br>
-                        - Application C# de suivi des produits de la sortie de prodution jusqu'à expédition vers le client final (Génésis)<br>
-                        - Application Web Angular/C# permettant de valider la qualité produit et d'effectuer des contrôles finaux avant expédition, de digitaliser les inventaires et de prendre des photos des produits en cas de litiges clients (FinalCheck)<br>
-                        - Application Web Angular/C# permettant d'identifier les trains entrant sur le site de Dunkerque et d'identifier le chargement des wagons (WagTrack)<br>
+                        Travail sur un besoin interne de 1 besoin des solutions <br>
+                        - Application permettant de faciliter le support de collaborateurs et de répondre rapidement à
+                        leurs problématiques en les redirigeant vers les bonnes documentations<br>
                     </strong><br>
-                    - Maintenance opérationnelle des applications<br>
-                    - Création et mise à jour d'écrans<br>
-                    - Maintien des serveurs de production et maintenance (MàJ, nettoyage, etc)<br>
+                    - Développement d'un poc en Angular et Java Spring Boot<br>
                     <br><br>
-                    <span style="font-weight: 600">Stacks techniques : Angular, C# Entity Framework & Event Flow, Azure DevOps, Docker</span>
+                    <span style="font-weight: 600">Stacks techniques : Angular, Java Spring Boot, GCP, Firebase</span>
                 </p>
             </li>
 
